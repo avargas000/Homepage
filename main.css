@@ -1,0 +1,37 @@
+@media (min-width: 700px) {}
+h1 { 
+    font-family: Helvetica;
+
+}
+p{
+    font-family:  sans-serif;
+    margin: 40px;
+}
+ul {
+   margin: 0 30px 0 30px;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4682B4;
+}
+
+li {
+    left: 300px; 
+    display: inline-block;
+
+}
+
+ a {
+     float: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+    height: inherit;
+    
+}
